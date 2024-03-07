@@ -4,7 +4,7 @@
 #include<vector>
 #include<filesystem>
 #include"toojpeg.h"
-
+//CAUTION: PLEASE MAKE SURE TO COMPILE THIS FILE IN C++17
 std::vector<unsigned char>x;
 void writeByte(unsigned char oneByte)
 {
